@@ -1,0 +1,5 @@
+com\spotify\automation\web\steps\SpotifyWebActionSteps.class
+com\spotify\automation\web\enumerations\SpotifyLang.class
+com\spotify\automation\web\steps\SpotifyWebInitializationSteps.class
+com\spotify\automation\web\steps\SpotifyWebScenarioContext.class
+com\spotify\automation\web\steps\SpotifyWebValidationSteps.class
